@@ -1,3 +1,3 @@
-# Sistemas Lineares - SL (Linear Systems)
+# Sistemas Lineares - SL (<i>Linear Systems</i>)
 Experiments and examples of linear systems...
 <p>By Prof. <b>Cláudio A. Fleury</b>, 2019.
